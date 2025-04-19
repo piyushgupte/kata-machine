@@ -100,4 +100,3 @@ A simple way to specify test, thinking something like `tests.json` and `cat
 test.json 2> /dev/null` to specify the tests to run.  tests.json wouldn't be
 committed.
 
-some test comments.
