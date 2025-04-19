@@ -86,6 +86,11 @@ for testing each day.
 ```
 yarn test
 ```
+To test perticular file 
+ß
+`````
+npx <Begining fraction of file name> eg : npx jest Bubble
+`````
 
 I have yet to create a testing strategy for next sets of algorithms, but we
 will get there when i cross that bridge.
